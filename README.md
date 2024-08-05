@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mvnithin/Leetcode/tree/master/0169-majority-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mvnithin/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1651-shuffle-string](https://github.com/mvnithin/Leetcode/tree/master/1651-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/mvnithin/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/mvnithin/Leetcode/tree/master/1651-shuffle-string) |
 <!---LeetCode Topics End-->
