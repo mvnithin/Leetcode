@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mvnithin/Leetcode/tree/master/0169-majority-element) |
+| [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mvnithin/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1651-shuffle-string](https://github.com/mvnithin/Leetcode/tree/master/1651-shuffle-string) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mvnithin/Leetcode/tree/master/0169-majority-element) |
+| [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [1205-defanging-an-ip-address](https://github.com/mvnithin/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/mvnithin/Leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/mvnithin/Leetcode/tree/master/1797-goal-parser-interpretation) |
