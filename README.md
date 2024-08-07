@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/mvnithin/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mvnithin/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1970-sorting-the-sentence](https://github.com/mvnithin/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mvnithin/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
