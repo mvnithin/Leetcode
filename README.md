@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/mvnithin/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/mvnithin/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/mvnithin/Leetcode/tree/master/1651-shuffle-string) |
+| [1764-maximum-repeating-substring](https://github.com/mvnithin/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mvnithin/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/mvnithin/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mvnithin/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mvnithin/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mvnithin/Leetcode/tree/master/1013-fibonacci-number) |
+| [1764-maximum-repeating-substring](https://github.com/mvnithin/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1026-string-without-aaa-or-bbb](https://github.com/mvnithin/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/mvnithin/Leetcode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
