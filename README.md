@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mvnithin/Leetcode/tree/master/0520-detect-capital) |
+| [0742-to-lower-case](https://github.com/mvnithin/Leetcode/tree/master/0742-to-lower-case) |
 | [1026-string-without-aaa-or-bbb](https://github.com/mvnithin/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1205-defanging-an-ip-address](https://github.com/mvnithin/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/mvnithin/Leetcode/tree/master/1651-shuffle-string) |
