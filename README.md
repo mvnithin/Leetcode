@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mvnithin/Leetcode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/mvnithin/Leetcode/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/mvnithin/Leetcode/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mvnithin/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/mvnithin/Leetcode/tree/master/0742-to-lower-case) |
