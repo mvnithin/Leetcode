@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/mvnithin/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/mvnithin/Leetcode/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/mvnithin/Leetcode/tree/master/0561-array-partition) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mvnithin/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/mvnithin/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mvnithin/Leetcode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/mvnithin/Leetcode/tree/master/0561-array-partition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/mvnithin/Leetcode/tree/master/1970-sorting-the-sentence) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/mvnithin/Leetcode/tree/master/0561-array-partition) |
 | [1026-string-without-aaa-or-bbb](https://github.com/mvnithin/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 ## String Matching
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/mvnithin/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
