@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/mvnithin/Leetcode/tree/master/0561-array-partition) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mvnithin/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1256-rank-transform-of-an-array](https://github.com/mvnithin/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1651-shuffle-string](https://github.com/mvnithin/Leetcode/tree/master/1651-shuffle-string) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
+| [1256-rank-transform-of-an-array](https://github.com/mvnithin/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mvnithin/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mvnithin/Leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/mvnithin/Leetcode/tree/master/0561-array-partition) |
+| [1256-rank-transform-of-an-array](https://github.com/mvnithin/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/mvnithin/Leetcode/tree/master/1970-sorting-the-sentence) |
