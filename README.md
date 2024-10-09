@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mvnithin/Leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/mvnithin/Leetcode/tree/master/0742-to-lower-case) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mvnithin/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/mvnithin/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1205-defanging-an-ip-address](https://github.com/mvnithin/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/mvnithin/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mvnithin/Leetcode/tree/master/0561-array-partition) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mvnithin/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/mvnithin/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 ## String Matching
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/mvnithin/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mvnithin/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mvnithin/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mvnithin/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
