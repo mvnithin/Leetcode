@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select c as id,count(*) as num from(select requester_id as c,accepter_id as a from RequestAccepted union select accepter_id as c,requester_id as a from RequestAccepted) as rc group by c order by num desc limit 1;
