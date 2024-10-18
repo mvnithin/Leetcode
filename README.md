@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/mvnithin/Leetcode/tree/master/0075-sort-colors) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/mvnithin/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/mvnithin/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mvnithin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/mvnithin/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/mvnithin/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1894-merge-strings-alternately](https://github.com/mvnithin/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mvnithin/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1970-sorting-the-sentence](https://github.com/mvnithin/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mvnithin/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
