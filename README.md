@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/mvnithin/Leetcode/tree/master/0561-array-partition) |
+| [0777-toeplitz-matrix](https://github.com/mvnithin/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mvnithin/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/mvnithin/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/mvnithin/Leetcode/tree/master/3427-special-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/mvnithin/Leetcode/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
