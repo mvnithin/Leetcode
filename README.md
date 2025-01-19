@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/mvnithin/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/mvnithin/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mvnithin/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mvnithin/Leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/mvnithin/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mvnithin/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mvnithin/Leetcode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mvnithin/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/mvnithin/Leetcode/tree/master/1894-merge-strings-alternately) |
