@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mvnithin/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mvnithin/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/mvnithin/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/mvnithin/Leetcode/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mvnithin/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/mvnithin/Leetcode/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mvnithin/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/mvnithin/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mvnithin/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/mvnithin/Leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/mvnithin/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mvnithin/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Dynamic Programming
