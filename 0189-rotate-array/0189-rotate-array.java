@@ -4,15 +4,17 @@ class Solution {
             k=k%nums.length;
         }
         int n=nums.length;
-        int[] temp=new int[k];
-        for(int i=0;i<k;i++){
-            temp[i]=nums[n-k+i];
-        }
-        for(int i=n-k-1;i>=0;i--){
-            nums[i+k]=nums[i];
-        }
-        for(int i=0;i<k;i++){
-            nums[i]=temp[i];
+        reverse(0,n-1,nums); //7654321
+        reverse(0,k-1,nums); //5674321
+        reverse(k,n-1,nums);//5671234
+    }
+    public  static void reverse(int s,int e,int[] nums){
+        while(s<e){
+            int temp=nums[s];
+            nums[s]=nums[e];
+            nums[e]=temp;
+            s++;
+            e--;
         }
     }
 }
