@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mvnithin/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0290-word-pattern](https://github.com/mvnithin/Leetcode/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mvnithin/Leetcode/tree/master/0520-detect-capital) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/mvnithin/Leetcode/tree/master/0777-toeplitz-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mvnithin/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
