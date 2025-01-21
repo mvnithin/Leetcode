@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mvnithin/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/mvnithin/Leetcode/tree/master/0022-generate-parentheses) |
 | [0290-word-pattern](https://github.com/mvnithin/Leetcode/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/mvnithin/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mvnithin/Leetcode/tree/master/0520-detect-capital) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mvnithin/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/mvnithin/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mvnithin/Leetcode/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/mvnithin/Leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mvnithin/Leetcode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mvnithin/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
