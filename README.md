@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mvnithin/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mvnithin/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3427-special-array-ii](https://github.com/mvnithin/Leetcode/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/mvnithin/Leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
