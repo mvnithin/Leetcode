@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/mvnithin/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/mvnithin/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/mvnithin/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3447-clear-digits](https://github.com/mvnithin/Leetcode/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -226,12 +227,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mvnithin/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mvnithin/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3447-clear-digits](https://github.com/mvnithin/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mvnithin/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/mvnithin/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mvnithin/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3447-clear-digits](https://github.com/mvnithin/Leetcode/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
