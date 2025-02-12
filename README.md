@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mvnithin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mvnithin/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/mvnithin/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mvnithin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mvnithin/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mvnithin/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mvnithin/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/mvnithin/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mvnithin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mvnithin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mvnithin/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/mvnithin/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/mvnithin/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mvnithin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mvnithin/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mvnithin/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mvnithin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mvnithin/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Counting Sort
 |  |
