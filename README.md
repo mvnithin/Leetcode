@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mvnithin/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/mvnithin/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/mvnithin/Leetcode/tree/master/3429-special-array-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mvnithin/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mvnithin/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mvnithin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mvnithin/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mvnithin/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
